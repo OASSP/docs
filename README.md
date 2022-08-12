@@ -3,4 +3,4 @@ Documents Repository for the  Organisation of Africa Space Sciences Professional
 
 This repo contains the documents for the  Organisation of Africa Space Sciences Professionals(O.A.S.S.P).
 
-Any updates on migration will be added here.
+Any updates or migration will be added here.
